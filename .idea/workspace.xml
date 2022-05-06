@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="930a9531-1055-409a-9c7e-4ae55be1ce55" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README_en.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/01/HelloGitHub01.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/02/HelloGitHub02.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/03/HelloGitHub03.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/04/HelloGitHub04.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/05/HelloGitHub05.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/06/HelloGitHub06.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/07/HelloGitHub07.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/08/HelloGitHub08.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/09/HelloGitHub09.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/10/HelloGitHub10.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/11/HelloGitHub11.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/12/HelloGitHub12.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/13/HelloGitHub13.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/14/HelloGitHub14.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/15/HelloGitHub15.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/16/HelloGitHub16.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/17/HelloGitHub17.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/18/HelloGitHub18.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/19/HelloGitHub19.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/20/HelloGitHub20.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/21/HelloGitHub21.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/22/HelloGitHub22.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/23/HelloGitHub23.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/24/HelloGitHub24.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/25/HelloGitHub25.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/26/HelloGitHub26.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/27/HelloGitHub27.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/28/HelloGitHub28.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/29/HelloGitHub29.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/30/HelloGitHub30.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/31/HelloGitHub31.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/32/HelloGitHub32.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/33/HelloGitHub33.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/34/HelloGitHub34.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/35/HelloGitHub35.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/36/HelloGitHub36.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/37/HelloGitHub37.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/38/HelloGitHub38.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/39/HelloGitHub39.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/40/HelloGitHub40.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/41/HelloGitHub41.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/42/HelloGitHub42.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/43/HelloGitHub43.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/44/HelloGitHub44.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/contributors.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/last.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redis/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redis/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redis/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redis/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redis/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redis/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redis/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redis/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redis/src/main/java/com/bole/redis/RedisApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redis/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redis/src/test/java/com/bole/redis/RedisApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../script/github_bot/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../script/github_bot/github_bot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../script/github_bot/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../script/make_content/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../script/make_content/make_content.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="221" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="lyq" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Interface" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$PROJECT_DIR$/../../../../apache-maven-3.6.1/repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../../../apache-maven-3.6.1/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mxX11SeYadS127SiUulp0t8Iji" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="OPEN_URL_DIALOG">
+      <recent name="https://github.com/915226051/redis.git" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="creationField" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/thread/synchronized" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HashCycle">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jxls.Demo" />
+      <module name="baseLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jxls.tool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.HashCycle" />
+      <module name="baseLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.set.HashSetTest" />
+      <module name="baseLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collection.set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListMerge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.list.ListMerge" />
+      <module name="baseLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collection.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.TestArray" />
+      <module name="baseLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="baseLearn" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="baseLearn" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HashCycle" />
+        <item itemvalue="Application.HashSetTest" />
+        <item itemvalue="Application.ListMerge" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.TestArray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="930a9531-1055-409a-9c7e-4ae55be1ce55" name="Default Changelist" comment="" />
+      <created>1610435996066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610435996066</updated>
+      <workItem from="1610435997783" duration="3138000" />
+      <workItem from="1610506102027" duration="829000" />
+      <workItem from="1610544717275" duration="152000" />
+      <workItem from="1610544883189" duration="4363000" />
+      <workItem from="1612317157745" duration="1237000" />
+      <workItem from="1613619529309" duration="164000" />
+      <workItem from="1614270287505" duration="200000" />
+      <workItem from="1614650521764" duration="1139000" />
+      <workItem from="1616032657440" duration="5407000" />
+      <workItem from="1621423510051" duration="4863000" />
+      <workItem from="1622641461370" duration="1282000" />
+      <workItem from="1623910852409" duration="282000" />
+      <workItem from="1624966697810" duration="5571000" />
+      <workItem from="1629107667274" duration="7979000" />
+      <workItem from="1635234623215" duration="53633000" />
+      <workItem from="1637227358363" duration="49187000" />
+      <workItem from="1640071563454" duration="1314000" />
+      <workItem from="1642421660758" duration="212000" />
+      <workItem from="1642993985590" duration="123000" />
+      <workItem from="1644478492318" duration="1321000" />
+      <workItem from="1645409928927" duration="435000" />
+      <workItem from="1646620312771" duration="739000" />
+      <workItem from="1647236520589" duration="5336000" />
+      <workItem from="1651151457625" duration="1476000" />
+      <workItem from="1651738807748" duration="70000" />
+      <workItem from="1651831921592" duration="2356000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="187" key="#Project_Structure" timestamp="1651151511269">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="187" key="#Project_Structure/0.0.1680.1050@0.0.1680.1050" timestamp="1651151511269" />
+    <state width="1054" height="427" key="GridCell.Tab.0.bottom" timestamp="1651832138333">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1054" height="427" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1651832138333" />
+    <state width="1054" height="427" key="GridCell.Tab.0.center" timestamp="1651832138332">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1054" height="427" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1651832138332" />
+    <state width="1054" height="427" key="GridCell.Tab.0.left" timestamp="1651832138332">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1054" height="427" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1651832138332" />
+    <state width="1054" height="427" key="GridCell.Tab.0.right" timestamp="1651832138333">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1054" height="427" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1651832138333" />
+    <state width="1054" height="427" key="GridCell.Tab.1.bottom" timestamp="1651832138334">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1054" height="427" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1651832138334" />
+    <state width="1054" height="427" key="GridCell.Tab.1.center" timestamp="1651832138334">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1054" height="427" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1651832138334" />
+    <state width="1054" height="427" key="GridCell.Tab.1.left" timestamp="1651832138333">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1054" height="427" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1651832138333" />
+    <state width="1054" height="427" key="GridCell.Tab.1.right" timestamp="1651832138334">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1054" height="427" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1651832138334" />
+    <state x="349" y="161" key="SettingsEditor" timestamp="1651833319688">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="349" y="161" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1651833319688" />
+    <state x="643" y="233" key="VCS.ChangeListViewerDialog" timestamp="1651833926218">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="643" y="233" key="VCS.ChangeListViewerDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1651833926218" />
+    <state x="517" y="368" key="com.intellij.ide.util.TipDialog" timestamp="1651151458023">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="517" y="368" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1651151458023" />
+    <state x="517" y="347" key="com.intellij.ide.util.TipDialog/0.25.1680.963@0.25.1680.963" timestamp="1646620339726" />
+    <state x="626" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1651833626515">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="626" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1651833626515" />
+    <state x="426" y="255" width="827" height="540" key="find.popup" timestamp="1647588668269">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="426" y="255" width="827" height="540" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1647588668269" />
+    <state x="633" y="393" key="git4idea.rebase.GitRebaseDialog" timestamp="1651833937525">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="633" y="393" key="git4idea.rebase.GitRebaseDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1651833937525" />
+    <state x="505" y="233" key="search.everywhere.popup" timestamp="1651151475711">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1651151475711" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../apache-maven-3.6.1/repository/org/jxls/jxls/2.6.0/jxls-2.6.0.jar!/org/jxls/transform/AbstractTransformer.class</url>
+          <line>132</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lyq$Test.ic" NAME="Test Coverage Results" MODIFIED="1636469226754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>thread.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/lyq$TestArray.ic" NAME="TestArray Coverage Results" MODIFIED="1636965388034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>basic.*</FILTER>
+    </SUITE>
+  </component>
+</project>
