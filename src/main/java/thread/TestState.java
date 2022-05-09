@@ -23,7 +23,7 @@ public class TestState implements Runnable {
         thread.start();
         System.out.println("start 后 Thread 状态：" + thread.getState());
 
-        while(thread.getState() != Thread.State.TERMINATED){
+        while (thread.getState() != Thread.State.TERMINATED) {
             Thread.sleep(200);
             System.out.println("实时监测 Thread 状态：" + thread.getState());
 

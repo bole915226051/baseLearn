@@ -9,9 +9,9 @@ public class TestLock {
 
     public static void main(String[] args) {
         TestLock2 testlock2 = new TestLock2();
-        new Thread(testlock2,"A").start();
-        new Thread(testlock2,"B").start();
-        new Thread(testlock2,"C").start();
+        new Thread(testlock2, "A").start();
+        new Thread(testlock2, "B").start();
+        new Thread(testlock2, "C").start();
     }
 }
 

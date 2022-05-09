@@ -2,7 +2,7 @@ package thread;
 
 /**
  * 创建线程方式一,继承Thread类,重写run方法.调用start方法,开启线程
- *
+ * <p>
  * 总结:线程开启不一定立即执行,是由CPU调度执行。
  */
 public class TestThread extends Thread {

@@ -7,7 +7,7 @@ public class TestEnum {
     SortEnum sortEnumB = SortEnum.B;
 }
 
-enum SortEnum       {
+enum SortEnum {
     A("a", "A"),
     B("b", "B"),
     ;

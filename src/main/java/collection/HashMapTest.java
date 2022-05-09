@@ -22,6 +22,6 @@ public class HashMapTest {
             System.out.println("Set>" + str);
         }
 
-        Map<String,Object> hashMap = new HashMap<String,Object>(100000);
+        Map<String, Object> hashMap = new HashMap<String, Object>(100000);
     }
 }

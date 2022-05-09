@@ -17,9 +17,9 @@ public class ArrayListTest {
         list.add("cc");
         list.add("dd");
         Iterator<String> iterator = list.iterator();
-        while(iterator.hasNext()){
+        while (iterator.hasNext()) {
             String sb = iterator.next();
-            if(sb.equals("aa")){
+            if (sb.equals("aa")) {
                 iterator.remove();
             }
         }
